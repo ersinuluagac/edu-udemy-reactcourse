@@ -1,0 +1,12 @@
+.course-main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.course{
+  width: 400px;
+  margin: 5px;
+  padding: 5px;
+  border-bottom: 1px solid;
+}
